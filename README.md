@@ -5,9 +5,11 @@
 <br>
 <b>=== Usage ===</b><br>
 <br>
+<p>git clone https://github.com/dscript-git/Termux-Ports.git</p>
+<br>
 <p>chmod +x *</p>
 <br>
-<p>cp * $HOME/
+<p>cp *.sh $HOME/
 <br>
 <p>bash metasploit.sh && bash beef-xss.sh && bash johntermux.sh</p>
 <br>
