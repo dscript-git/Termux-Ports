@@ -7,11 +7,17 @@
 <br>
 <p>git clone https://github.com/dscript-git/Termux-Ports.git</p>
 <br>
+<p>cd Termux-Ports</p>
+<br>
 <p>chmod +x *</p>
 <br>
 <p>cp *.sh $HOME/
 <br>
+<p>cd $HOME/</p>
+<br>
 <p>bash metasploit.sh && bash beef-xss.sh && bash johntermux.sh</p>
+<br>
+<p>or</p>
 <br>
 <p>bash *.sh</p>
 <br>
